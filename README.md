@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 Self thought Front-end Web Developer<br>🤝 5+ years of experience<br>🌱 Learning Back-end Web Dev
+🔭 Self thought **Front-end Web Developer**<br>🤝 **5+ years** of experience<br>🌱 Learning **Back-end** Web Dev
 
 
 ## 🌐 Socials:
@@ -16,6 +16,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
