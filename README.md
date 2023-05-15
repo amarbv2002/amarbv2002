@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 Self thought **Website Designer and Front-end Web Developer**<br>🤝 **6+ years** of experience<br>🌱 Learning **Back-end** Web Dev
+🔭 Self thought **Website Designer and Front-end Web Developer**<br>🤝 **7+ years** of experience<br>🌱 Learning **Back-end** Web Dev
 
 
 ## 🌐 Socials:
