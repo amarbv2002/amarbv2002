@@ -1,27 +1,9 @@
-### Hi there 👋
-
-# 💫 About Me:
-🔭 Self thought **Website Designer and Front-end Web Developer**<br>🤝 **7+ years** of experience<br>🌱 Learning **Back-end** Web Dev
+# Hi There!👋
+I am Amar Karthik, a Professional Web Developer, Designer, and Digital Marketer with a passion for creating impactful digital experiences. I am also the Marketing Partner at [Friendometry](https://friendometry.com) and the Co-Founder of [LearnyHive](https://www.learnyhive.com), contributing to innovative solutions that make a difference.<br><br>My journey began at a young age, and I’ve since worked with clients across industries, delivering impactful solutions in Web Design, Development, SEO, Social Media Marketing, and Paid Advertising.<br><br>From founding [UnikBrushes](https://www.unikbrushes.com) at 14 to leading innovative projects worldwide, I combine creativity and strategy to bring ideas to life. My expertise lies in crafting effective digital experiences that not only look great but also drive results and growth for businesses.<br><br>**What I Do ?**<br>Website Design & Development<br>Expert in designing and developing responsive, dynamic, and visually appealing websites with a focus on performance and functionality.<br><br>Digital Marketing Strategies & Campaigns<br>Proficient in creating and executing effective digital marketing strategies, including paid ads, email marketing, and optimization.<br><br>SEO (Search Engine Optimization)<br>Skilled in optimizing websites for better search engine rankings, increasing organic traffic, and improving overall online visibility.<br><br>Social Media Management & Marketing<br>Experienced in managing social media platforms, creating engaging content, and running data-driven marketing campaigns.<br><br>Creative Brand Identity Design<br>Specialized in building cohesive and impactful brand identities through logo design, visual storytelling, and consistent branding elements.<br><br>User Experience and Interface Design<br>Focused on creating intuitive and user-friendly interfaces, ensuring seamless and engaging user experiences across digital platforms.<br><br>For more information about me, visit [amarkarthik.in](https://amarkarthik.in)
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amar.karthik.794) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amar_karthik_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amar-karthik)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amar_karthik_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amar-karthik) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amarbv2002&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amarbv2002&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amarbv2002&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=amarbv2002&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
