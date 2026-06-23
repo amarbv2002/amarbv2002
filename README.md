@@ -34,12 +34,6 @@ I enjoy solving complex business problems by building systems that scale.
 
 Building a digital agency that combines development, marketing, branding, and automation to help businesses grow through scalable digital systems.
 
-### LearnyHive
-
-**Co-Founder & CTO**
-
-Leading technology, product development, and growth initiatives for an education platform serving thousands of engineering students.
-
 ---
 
 ## What I Work On
