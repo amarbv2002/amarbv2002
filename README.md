@@ -1,78 +1,161 @@
-# 👋 Hi, I'm Amar Karthik
+# Amar Karthik
 
-**Founder & CEO at [UnikBrushes](https://unikbrushes.com)** | **Co-Founder & CTO at [LearnyHive](https://learnyhive.com)**  
-**Web Developer | Designer | Digital Marketing Strategist | AI Innovator**
+### Founder • Builder • Growth Strategist
 
----
-
-## 🚀 About Me
-
-I’m a **Web Developer, Designer, and Digital Marketing Specialist** with **10+ years of experience** building digital ecosystems that merge creativity, technology, and strategy.  
-I specialize in helping brands grow through **AI-integrated, data-driven, and performance-focused digital solutions.**
-
-I started my journey at **age 13**, turning a small freelance gig into what is now **UnikBrushes**, a full-service global digital agency.  
-Over the years, I’ve partnered with **300+ clients worldwide**, creating scalable, high-performing digital experiences that deliver measurable results.
+Building and scaling digital businesses through strategy, systems, and execution.
 
 ---
 
-## 💡 What I Do
+## About Me
 
-### 🔧 Web Design & Development
-- WordPress, Shopify, WooCommerce, PHP, MERN, Next.js  
-- UI/UX strategy, responsive design, and conversion optimization  
-- Custom tools, calculators, and automation workflows
+I'm Amar Karthik, a web developer, digital strategist, and business builder from India.
 
-### 🎯 Digital Marketing & SEO
-- Technical, On-Page & Off-Page SEO  
-- Programmatic SEO frameworks (city/state/category automation)  
-- Paid Ads (Google, Meta, LinkedIn)  
-- Content strategy, automation & analytics
+I started experimenting with design and development at the age of 13. What began as curiosity evolved into building digital products, leading teams, and launching businesses that serve clients and users across the world.
 
-### 🎨 Branding & Creative Strategy
-- Brand identity design (logo, palette, typography)  
-- Product packaging & creative direction  
-- Marketing collateral: pitch decks, brochures, landing pages
+Today, I lead multiple ventures, including **UnikBrushes**, a global digital agency, and **LearnyHive**, an education technology platform focused on helping engineering students learn and grow.
 
-### 🤖 AI-Driven Systems
-- Workflow automation & AI integrations  
-- Smart content & SEO automation systems  
-- AI-powered data tools, dashboards & assistants
+My work sits at the intersection of:
+
+- Technology
+- Marketing
+- Business Strategy
+- AI & Automation
+- Growth Systems
+
+I enjoy solving complex business problems by building systems that scale.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## What I'm Building
 
-| **Category** | **Technologies & Tools** |
-|---------------|---------------------------|
-| **Languages & Frameworks** | HTML, CSS, JavaScript, PHP, React, Next.js, Node.js |
-| **Platforms & CMS** | WordPress, Shopify, WooCommerce, Wix, Webflow |
-| **Marketing & Analytics** | Google Ads, Meta Ads, SEMrush, Ahrefs, Analytics, Search Console |
-| **Design & Branding** | Figma, Adobe XD, Photoshop, Illustrator, Canva |
-| **AI & Automation** | ChatGPT, OpenAI API, Zapier, Make, GPT-based automations |
+### UnikBrushes
 
----
+**Founder & CEO**
 
-## 🧭 Vision
+Building a digital agency that combines development, marketing, branding, and automation to help businesses grow through scalable digital systems.
 
-To build **AI-integrated digital systems** that empower businesses to scale faster, smarter, and with creative precision.  
-I believe the future of marketing is **automation with human strategy** — and that’s exactly what I build every day.
+### LearnyHive
+
+**Co-Founder & CTO**
+
+Leading technology, product development, and growth initiatives for an education platform serving thousands of engineering students.
 
 ---
 
-## 📬 Connect with Me
+## What I Work On
 
-- **Portfolio:** [amarkarthik.in](https://amarkarthik.in)  
-- **LinkedIn:** [linkedin.com/in/amarkarthik](https://linkedin.com/in/amarkarthik)  
-- **Email:** [hello@unikbrushes.com](mailto:amar@unikbrushes.com)  
-- **Twitter/X:** [@amarkarthik_](https://twitter.com/amar_karthik_)  
+- Web Development
+- SEO & Organic Growth
+- Digital Marketing
+- AI Automations
+- Business Systems
+- Conversion Optimization
+- UI/UX Design
+- Brand Strategy
+- Performance Marketing
+- Team Leadership
 
 ---
 
-## 🧩 Let’s Collaborate
+## Current Focus
 
-I’m always open to discussions, collaborations, and innovative projects — especially around **web development, SEO automation, AI tools, and digital marketing systems.**  
-Feel free to **fork, star, or reach out** if you’d like to build something impactful together.
+- Building AI-powered business workflows
+- Scaling digital growth systems
+- Creating automation-first marketing processes
+- Developing high-performance web platforms
+- Exploring the future of AI, search, and digital products
 
 ---
 
-⭐ **If you like what I do, consider starring this repo and connecting with me on [LinkedIn](https://linkedin.com/in/amarkarthik)!**
+## Philosophy
+
+Most businesses don't have a traffic problem.
+
+Most businesses don't have a website problem.
+
+Most businesses have a systems problem.
+
+Growth becomes predictable when strategy, execution, technology, and operations work together.
+
+That's what I focus on building.
+
+---
+
+## Tech Stack
+
+### Development
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- React
+- Next.js
+- Node.js
+- WordPress
+- WooCommerce
+- Shopify
+
+### Marketing
+
+- SEO
+- Google Ads
+- Meta Ads
+- Google Analytics
+- Search Console
+- Ahrefs
+- SEMrush
+
+### Design
+
+- Figma
+- Photoshop
+- Illustrator
+- UI/UX Design
+- Brand Systems
+
+### AI & Automation
+
+- OpenAI
+- ChatGPT
+- Make
+- Zapier
+- Custom AI Workflows
+
+---
+
+## Journey
+
+- Started learning design and development at age 13
+- Founded UnikBrushes and scaled it into a global digital agency
+- Led web development, SEO, and AI initiatives across multiple organizations
+- Co-founded LearnyHive and helped scale the platform to thousands of users
+- Currently focused on AI, automation, digital growth systems, and business scalability
+
+---
+
+## Beyond Work
+
+When I'm away from the screen, you'll probably find me:
+
+- Riding motorcycles
+- Exploring mountain roads and foggy landscapes
+- Learning about emerging technologies
+- Building side projects
+- Studying business, systems, and growth
+
+---
+
+## Connect
+
+**Website:** https://amarkarthik.in
+
+**Agency:** https://unikbrushes.com
+
+**LinkedIn:** https://linkedin.com/in/amarkarthik
+
+**Email:** hello@unikbrushes.com
+
+---
+
+> Build systems. Drive growth. Scale intelligently.
